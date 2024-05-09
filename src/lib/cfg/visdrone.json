@@ -1,0 +1,15 @@
+{
+    "root":"/home/ioe60/MJB/UAVdata",
+    "train":
+    {
+        "visdrone":"./data/VisDrone.train"
+    },
+    "test_emb":
+    {
+        "visdrone":"./data/VisDrone.train"
+    },
+    "test":
+    {
+        "visdrone":"./data/VisDrone.train"
+    }
+}

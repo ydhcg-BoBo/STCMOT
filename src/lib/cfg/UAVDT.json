@@ -1,0 +1,15 @@
+{
+    "root":"/home/ioe60/MJB/UAVdata",
+    "train":
+    {
+        "UAVDT":"./data/UAVDT.train"
+    },
+    "test_emb":
+    {
+        "UAVDT":"./data/UAVDT.train"
+    },
+    "test":
+    {
+        "UAVDT":"./data/UAVDT.train"
+    }
+}
