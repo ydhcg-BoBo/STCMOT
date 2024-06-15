@@ -1,5 +1,5 @@
 # STCMOT
->[ICME 2024 Oral] STCMOT: Spatio-Temporal Cohesion Learning for UAV-Based Multiple Object Tracking.
+>[ICME 2024] STCMOT: Spatio-Temporal Cohesion Learning for UAV-Based Multiple Object Tracking.
 </br>
 >One-shot multi-class multi-object tracking for UAV videos
 
