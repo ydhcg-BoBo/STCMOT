@@ -68,6 +68,10 @@ Run python track.py
 ```
 The multi-object tracking results will be saved as **.txt, and evaluate it by the [official toolkits](https://github.com/VisDrone/VisDrone2018-MOT-toolkit)
 
+### Models
+* Re-trained model [UAVDT](https://pan.baidu.com/s/1WFELOIksBuU8547cbrm79w) 提取码: uavd 
+
+
 ### Acknowledgement
 A large part of the code is borrowed from [Fairmot](https://github.com/ifzhang/FairMOT) and [MCMOT](https://github.com/CaptainEven/MCMOT).
 Thanks for their wonderful works.
