@@ -52,7 +52,7 @@ cd DCNv2
 
 * Visdrone [Link!!!](https://github.com/VisDrone/VisDrone-Dataset)
 
-* UAVDT [Link!!!](https://github.com/dataset-ninja/uavdt)
+* UAVDT [Link!!!]([https://github.com/dataset-ninja/uavdt](https://sites.google.com/view/grli-uavdt/))
 
 
 ### Train
